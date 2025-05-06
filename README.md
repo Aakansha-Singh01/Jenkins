@@ -2,11 +2,12 @@
 
 This repository contains my notes, setups, and test scripts related to Jenkins, CI/CD, and GitHub integration.
 
-# Jenkins Learnings 🚀
+# Jenkins Learnings
 
 ## What is Jenkins?
 - Jenkins is an open-source automation server.
 - It helps automate testing, building, and deployment processes.
+- 
 
 ## Key Concepts I Learned
 - Jenkins Installation & Setup
@@ -23,4 +24,4 @@ This repository contains my notes, setups, and test scripts related to Jenkins, 
 ## Next Goals
 - Create Jenkins Pipeline
 - Explore Jenkins plugins
-- Set up Jenkins with Docker
+- Set up Jenkins
