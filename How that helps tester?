@@ -1,0 +1,28 @@
+1) Don't have to run tests manually - 
+Testers or developers no longer need to open a terminal or tool to manually run test cases each time a code change is made.
+- Saves time and effort.
+- Reduces human error in test execution.
+- Automation ensures consistency across environments.
+- Jenkins can automatically trigger tests every time code is pushed to GitHub.
+
+
+2) Quick feedback after every code change
+Jenkins notifies you if something breaks immediately after a code update or commit.
+- Helps testers identify bugs as soon as they are introduced.
+- Makes it easier to pinpoint which commit caused a failure.
+- Encourages faster debugging and shorter development cycles.
+
+
+3) Jenkins ensures that nothing is skipped
+Every test you have configured in the pipeline will be executed every time without forgetting or missing steps.
+- Human testers might forget to run all edge cases or regression tests.
+- Jenkins executes all test cases in the pipeline with consistency.
+- Ensures that even rarely touched features are continuously validated.
+
+
+4) All history of test runs in one place
+Jenkins maintains logs of every build, including which tests passed, failed, and what the output was.
+- Helps in auditing: You can trace when a bug was introduced.
+- Allows trend analysis over time: Which tests fail the most?
+- Improves team collaboration: Everyone can see what was tested and when.
+
