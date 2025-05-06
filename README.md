@@ -11,7 +11,6 @@ This repository contains my notes, setups, and test scripts related to Jenkins, 
 
 ## Key Concepts I Learned
 - Jenkins Installation & Setup
-- Creating Freestyle Jobs
 - Running Automated Test Scripts
 - Integrating Jenkins with GitHub
 - Test Reporting and Notifications
