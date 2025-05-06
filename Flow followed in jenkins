@@ -1,0 +1,8 @@
+Steps by Step flow followed in build/deploy/test in Jenkins: 
+
+1) Developers pushes code -->
+2) Jenkins detect change (auto or manual trigger) -->
+3) Then it Pulls the latest code -->
+4) Jenkins then runs test automation scripts -->
+5) It then shows results and sends reports -->
+6) After that the tester Analyse results and logs bugs.
