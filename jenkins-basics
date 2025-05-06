@@ -1,1 +1,8 @@
-bjvjh
+Jenkins Need:
+- Open source platform --> Helps software developers automate tasks, making the development & deployment process faster, reliable & less prone to errors.
+- Automatically run tests scripts after every code change.
+- Generates test reports.
+- Sends emails for Pass/Fails of test cases.
+- Runs tests repeatedly at scheduled time.
+- Catches bugs early -> as it runs tests as soon as the developers pushes code.
+
