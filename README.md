@@ -16,11 +16,6 @@ This repository contains my notes, setups, and test scripts related to Jenkins, 
 - Integrating Jenkins with GitHub
 - Test Reporting and Notifications
 
-## My Practice Setup
-- Jenkins installed on local machine
-- GitHub repo connected via Webhook
-- Selenium test script executed after each push
-
 ## Next Goals
 - Create Jenkins Pipeline
 - Explore Jenkins plugins
